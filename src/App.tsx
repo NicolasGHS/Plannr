@@ -13,7 +13,7 @@ function App() {
   // }
 
   return (
-    <div className="bg-white">
+    <div className="bg-[#1e1f27]">
       <Sidebar />
       <p className="">Test</p> 
     </div>
